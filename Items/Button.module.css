@@ -1,0 +1,19 @@
+.button1{
+    color: aqua;
+   background-color: black;
+    width: 301px;
+    height:31px;
+    border-radius: 15px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .button1{
+        color: aqua;
+       
+        width: 100px;
+    }
+    body {
+      background-color: lightblue;
+    }
+  }

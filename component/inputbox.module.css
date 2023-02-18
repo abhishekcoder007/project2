@@ -1,0 +1,15 @@
+.input1{
+    width: 301px;
+    background-color: white;
+    height:51px;
+    
+}
+@media only screen and (max-width: 720px) {
+    .input1{
+      
+        background-color: aliceblue;
+        width: 51px;
+        border-radius: 21px;
+    }
+
+  }
